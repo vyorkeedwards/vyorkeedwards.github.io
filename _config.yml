@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Victoria Yorke-Edwards"
 title_separator          : "-"
 name                     : &name "Victoria Yorke-Edwards"
-description              : &description "Research Fellow in Trial Conduct Methodology"
+description              : &description "Senior Research Data Manager"
 url                      : https://vyorkeedwards.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vyorkeedwards/vyorkeedwards.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Victoria Yorke-Edwards"
   avatar           : "profile_photo_300x300.png"
-  bio              : "Research Fellow in Trial Conduct Methodology at the MRC Clinical Trials Unit at University College London"
+  bio              : "Senior Research Data Steward at the Centre for Advanced Research Computing at University College London"
   location         : "London, UK"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=victoria+yorke-edwards"
   googlescholar    : 
   email            : "v.yorke-edwards@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://iris.ucl.ac.uk/iris/browse/profile?upi=VYORK86"
+  uri              : "https://profiles.ucl.ac.uk/10203-victoria-yorkeedwards/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@VickiYE"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
